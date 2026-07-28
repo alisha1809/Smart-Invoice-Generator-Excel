@@ -34,7 +34,7 @@ A professional invoice generator built in Microsoft Excel using formulas, data v
 
 ### Invoice
 
-![Invoice](Invoice.PNG)
+![Invoice](Invoice.png)
 
 ---
 
