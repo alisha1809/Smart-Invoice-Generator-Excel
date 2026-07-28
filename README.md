@@ -34,15 +34,7 @@ A professional invoice generator built in Microsoft Excel using formulas, data v
 
 ### Invoice
 
-![Invoice](Images/invoice.png)
-
-### Product Dropdown
-
-![Dropdown](Images/product_dropdown.png)
-
-### Total Calculation
-
-![Total](Images/total_calculation.png)
+![Invoice](Images/Invoice.png)
 
 ---
 
